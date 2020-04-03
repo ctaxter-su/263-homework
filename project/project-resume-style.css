@@ -1,0 +1,36 @@
+body {
+    font-family: "EB Garamond";
+    background-color: #f2ebfe;
+}
+
+button {
+    background-color: transparent;
+    font-size: 15px;
+    border: none;
+}
+
+h1 {
+    color: #30106b;
+    font-size: 40px;
+}
+
+main {
+    color: #30106b;
+    padding-left: 40px;
+    padding-top: 30px;
+}
+
+h2 {
+    font-weight: 800;
+    font-size:35px;
+}
+
+h3{
+    font-weight: 400;
+    font-size: 30px;
+}
+
+ul{
+    font-size: 25px;
+}
+/* make resume two columns possibly*/

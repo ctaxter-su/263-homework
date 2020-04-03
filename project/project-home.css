@@ -1,0 +1,58 @@
+body {
+    font-family: "EB Garamond";
+    background-color: #f2ebfe;
+}
+
+h1 {
+    color: #30106b;
+    font-size: 50px;
+}
+
+h3 {
+    color: #30106b;
+    font-size: 30px;
+}
+
+p{
+    font-size: 30px;
+    padding-top: 30px;
+    color: #30106b;
+}
+
+h4{
+    font-size: 20px;
+    font-weight: bold;
+    color: #30106b;
+}
+
+ul {
+    font-size: 18px;
+    color: #30106b;
+}
+
+button {
+    background-color: transparent;
+    font-size: 15px;
+    border: none;
+    /*align buttons to the right*/
+}
+
+div.look {
+   
+    position: relative;
+    width: 300px;
+    border: 3px solid #30106b;
+    padding: 30px;
+    margin: 20px;
+      
+}
+
+div.follow {
+   /*get box to be to the right of other box*/
+    position: relative;
+    width: 300px;
+    border: 3px solid #30106b;
+    padding: 30px;
+    margin: 20px;
+      
+}
