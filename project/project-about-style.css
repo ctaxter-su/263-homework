@@ -1,0 +1,87 @@
+button {
+    background-color: transparent;
+    font-size: 15px;
+    border: none;
+    /*align buttons to the right*/
+}
+
+body {
+    font-family: "EB Garamond";
+    background-color: #f2ebfe;
+}
+
+main {
+    color: #30106b;
+}
+
+h1{
+    padding-left: 40px;
+}
+
+div.me{
+    width: 400px;
+    border: 3px solid #30106b;
+    padding: 20px;
+    margin: 40px;
+    float: left;
+}
+
+
+div.me-text{
+    width: 700px;
+    padding: 30px;
+    margin: 30px;
+    float: right;
+    font-size: 20px;
+}
+
+div.lady{
+    width: 400px;
+    border: 3px solid #30106b;
+    padding: 20px;
+    margin: 40px;
+    float: right;
+}
+
+
+div.movie-text{
+    width: 500px;
+    padding: 30px;
+    margin: 30px;
+    float: left;
+    font-size: 20px;
+}
+
+div.brock{
+    width: 400px;
+    border: 3px solid #30106b;
+    padding: 20px;
+    margin: 40px;
+    float: left;
+}
+
+
+div.music-text{
+    width: 700px;
+    padding: 30px;
+    margin: 30px;
+    float: right;
+    font-size: 20px;
+}
+
+div.travel{
+    width: 400px;
+    border: 3px solid #30106b;
+    padding: 20px;
+    margin: 40px;
+    float: right;
+}
+
+
+div.travel-text{
+    width: 700px;
+    padding: 30px;
+    margin: 30px;
+    float: left;
+    font-size: 20px;
+}
