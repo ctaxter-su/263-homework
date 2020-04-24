@@ -1,0 +1,43 @@
+
+body {
+    font-family: 'Roboto';
+    background-color: #f2ebfe;
+    padding-left: 40px;
+    padding-top: 30px;
+    color: #30106b;
+    font-size: 18px;
+    padding-right: 2.5%;
+}
+
+main {
+    background-color: #f2ebfe;
+    color: #30106b;
+    font-family: 'Roboto'
+}
+
+section {
+    background-color: #f2ebfe;
+    color: #30106b;
+    font-family: 'Roboto';
+}
+
+img {
+    width: 100%;
+    height: auto;   
+}
+
+footer {
+    font-size: 14px;
+}
+
+#school {
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+
